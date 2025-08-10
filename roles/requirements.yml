@@ -14,6 +14,7 @@
 
 roles:
   # Web Server
+  #This role is designed to automate the installation and configuration of Apache 2.x web server on various Linux distributions, including RHEL/CentOS, Debian/Ubuntu, and SLES.
   - name: geerlingguy.apache
   # Application Server
   - name: geerlingguy.tomcat6
